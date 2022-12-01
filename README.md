@@ -12,3 +12,5 @@ note filename and main classname should be same
 https://github.com/Dharshini1810/cns-exp
 # python pgm pdf link
 http://shorturl.at/dCV38
+# CNS record link
+http://bit.ly/securitylabrecord
