@@ -13,3 +13,6 @@ d-=1
 dectext=(enctext**d)%n  
 print("encrypted text is ",enctext)
 print("decrypted text is ",dectext)
+
+#input p=17;q=11;m=88;e=7
+#output = 11, 88
