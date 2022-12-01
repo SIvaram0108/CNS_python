@@ -1,4 +1,5 @@
 # to run python pgm
+In cmd    
 python filename.py
 # to run java pgm 
 open command prompt      
