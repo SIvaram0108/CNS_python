@@ -11,6 +11,6 @@ note filename and main classname should be same
 # java pgms link
 https://github.com/Dharshini1810/cns-exp
 # python pgm pdf link
-http://shorturl.at/dCV38
+http://shorturl.at/dGJR8
 # CNS record link
 http://bit.ly/securitylabrecord
